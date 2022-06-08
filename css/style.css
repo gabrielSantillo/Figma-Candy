@@ -16,6 +16,7 @@ img {
 
 #main_section_first_img {
     background-image: url(/img/candy1.jpeg);
+    background-position: center;
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
@@ -27,6 +28,7 @@ img {
 
 #main_section_second_img {
     background-image: url(/img/candy2.jpg);
+    background-position: center;
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
@@ -38,6 +40,7 @@ img {
 
 #main_section_third_img {
     background-image: url(/img/candy3.jpeg);
+    background-position: center;
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
@@ -50,6 +53,7 @@ img {
 #main_section_fourth_img {
     background-image: url(/img/candy4.jpeg);
     display: grid;
+    background-position: center;
     grid-auto-flow: row;
     justify-content: start;
     align-items: end;
@@ -60,6 +64,7 @@ img {
 
 #main_section_fifht_img {
     background-image: url(/img/candy5.jpeg);
+    background-position: center;
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
@@ -71,6 +76,7 @@ img {
 
 #main_section_sixth_img {
     background-image: url(/img/candy6.jpeg);
+    background-position: center;
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
