@@ -15,7 +15,7 @@ img {
 }
 
 #main_section_first_img {
-    background-image: url(/Scratch/Figma-Candy/img/candy2.jpg);
+    background-image: url(/img/candy1.jpeg);
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
@@ -26,7 +26,7 @@ img {
 }
 
 #main_section_second_img {
-    background-image: url(/Scratch/Figma-Candy/img/candy1.jpeg);
+    background-image: url(/img/candy2.jpg);
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
@@ -37,7 +37,7 @@ img {
 }
 
 #main_section_third_img {
-    background-image: url(/Scratch/Figma-Candy/img/candy3.jpeg);
+    background-image: url(/img/candy3.jpeg);
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
@@ -48,7 +48,7 @@ img {
 }
 
 #main_section_fourth_img {
-    background-image: url(/Scratch/Figma-Candy/img/candy4.jpeg);
+    background-image: url(/img/candy4.jpeg);
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
@@ -59,7 +59,7 @@ img {
 }
 
 #main_section_fifht_img {
-    background-image: url(/Scratch/Figma-Candy/img/candy5.jpeg);
+    background-image: url(/img/candy5.jpeg);
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
@@ -70,7 +70,7 @@ img {
 }
 
 #main_section_sixth_img {
-    background-image: url(/Scratch/Figma-Candy/img//candy6.jpeg);
+    background-image: url(/img/candy6.jpeg);
     display: grid;
     grid-auto-flow: row;
     justify-content: start;
